@@ -1,0 +1,118 @@
+#bdr
+{
+border:5px double black;
+border-collapse:collapse;
+background-color:#ffff99;
+width:85%;
+}
+td,th
+{
+border:1px solid black;
+text-align:center;
+font-size:1.4vw;
+font-family:Garamond;
+}
+tr.first:hover{
+background-color:#bfff80;
+color:brown;
+text-shadow: 3px 3px 3px grey;
+}
+th
+{
+height:60px;
+background-color:#ff531a;
+}
+#desc{
+font-size:1.4vw;
+font-family:Garamond;
+}
+#addr
+{
+font-size:1.3vw;
+border:3px dashed DodgerBlue;
+width:22%;
+padding:5px;
+border-style:inset;
+font-family:Garamond;
+}
+#dp
+{
+float:right;
+border-radius:25%;
+border:2px solid black;
+height: 208px;
+width: 181px;
+}
+#tdnobr
+{
+border:none;
+text-align:left;
+}
+#bottomtable
+{
+width:85%;
+}	
+ul,ol
+{
+list-style-position:inside;
+list-style-type:square;
+font-family:Garamond;
+}
+#spantag
+{
+float: left;
+width: 0.5em;
+font-size: 500%;
+font-family: algerian, courier;
+line-height: 80%;
+}
+#name{
+text-shadow: 4px 4px 6px grey;
+text-decoration: underline;
+font-size:3vw;
+text-align:center;
+}
+#mobmail{
+font-size:1.4vw;
+padding:10px;
+font-weight:bold;
+}
+#headings{
+font-style:italic;
+font-size:1.8vw;
+color:DodgerBlue;
+}
+#tabicon{
+height:50px;
+width:55px;
+border-radius:25%;
+}
+#blocks{
+width:50%;
+float:left;
+}
+#social{
+height:40px;
+width:55px;
+border-radius:25%;
+margin-left:30px;
+}
+#foot
+{
+font-family:Garamond;
+font-size:24px;
+}
+#last1
+{
+font-size:25px;
+float:left;
+font-family:Garamond;
+margin-left:22px;
+}
+#last2
+{
+font-size:25px;
+float:right;
+font-family:Garamond;
+margin-right:40px;
+}
